@@ -135,6 +135,9 @@ export default function App() {
 
       <footer>
         <p>內容整理自王伯達《人生財務規劃學》課程；歷史報酬不代表未來表現，試算結果僅供規劃參考。</p>
+        <a className="home-link" href="https://fuwei0618-cmd.github.io/Entry/">
+          ↖ 回到 Origina
+        </a>
       </footer>
     </div>
   )
